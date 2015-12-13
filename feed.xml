@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Showcase Theme - Flatly</title>
   <subtitle>Flatly</subtitle>
-  <id>https://showcase5.curation.space/</id>
-  <link href="https://showcase5.curation.space/"/>
-  <link href="https://showcase5.curation.space/feed.xml" rel="self"/>
+  <id>https://showcase7.curation.space/</id>
+  <link href="https://showcase7.curation.space/"/>
+  <link href="https://showcase7.curation.space/feed.xml" rel="self"/>
   <updated>2015-11-19T11:04:29Z</updated>
   <author>
     <name>Felix K</name>
   </author>
   <entry>
     <title>Example with fixed Images</title>
-    <link rel="alternate" href="https://showcase5.curation.space/2015/11/19/example-with-fixed-images.html"/>
-    <id>https://showcase5.curation.space/2015/11/19/example-with-fixed-images.html</id>
+    <link rel="alternate" href="https://showcase7.curation.space/2015/11/19/example-with-fixed-images.html"/>
+    <id>https://showcase7.curation.space/2015/11/19/example-with-fixed-images.html</id>
     <published>2015-11-19T11:04:29Z</published>
-    <updated>2015-12-01T21:11:49+00:00</updated>
+    <updated>2015-12-13T06:53:14+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -72,10 +72,10 @@
   </entry>
   <entry>
     <title>Example with Youtube Videos</title>
-    <link rel="alternate" href="https://showcase5.curation.space/2015/11/15/example-with-youtube-videos.html"/>
-    <id>https://showcase5.curation.space/2015/11/15/example-with-youtube-videos.html</id>
+    <link rel="alternate" href="https://showcase7.curation.space/2015/11/15/example-with-youtube-videos.html"/>
+    <id>https://showcase7.curation.space/2015/11/15/example-with-youtube-videos.html</id>
     <published>2015-11-15T04:18:17Z</published>
-    <updated>2015-12-01T21:11:35+00:00</updated>
+    <updated>2015-12-13T06:52:03+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -191,10 +191,10 @@
   </entry>
   <entry>
     <title>Example with Lightbox Images</title>
-    <link rel="alternate" href="https://showcase5.curation.space/2015/11/15/example-with-lightbox-images.html"/>
-    <id>https://showcase5.curation.space/2015/11/15/example-with-lightbox-images.html</id>
+    <link rel="alternate" href="https://showcase7.curation.space/2015/11/15/example-with-lightbox-images.html"/>
+    <id>https://showcase7.curation.space/2015/11/15/example-with-lightbox-images.html</id>
     <published>2015-11-15T02:17:54Z</published>
-    <updated>2015-12-01T21:11:34+00:00</updated>
+    <updated>2015-12-13T06:51:50+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
